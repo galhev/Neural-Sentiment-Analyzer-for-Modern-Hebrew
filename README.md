@@ -8,7 +8,7 @@ Morphologically Rich Languages: A Case Study from Modern Hebrew](https://www.acl
 ## Results
 
 Accuracy results (percentage of correct label predictions) for all architecture and representation
-choices on our test set; for the string-based vocabulary, and the char-based vocabulary.
+choices on the test set; for the string-based vocabulary, and the char-based vocabulary.
 
 ### String-based Vocabulary
 
