@@ -14,12 +14,12 @@ choices on our test set; for the string-based vocabulary, and the char-based voc
 
 Architecture | Linear | MLP | CNN | LSTM | BiLSTM | 
 --- | --- | --- | --- |--- |--- |
- Token-Based| 301 | 283 | 290 | 286 | 289 |
- Morpheme-Based| 301 | 283 | 290 | 286 | 289 | 
+ Token-Based| 64.08 | 79.31 | 86.92 | 84.42 | 85.96 |
+ Morpheme-Based| 62.38 | 78.19 | 85.73 | 82.19 | 85.88 | 
 
 ### Char-based Vocabulary
 
 Architecture | Linear | MLP | CNN | LSTM | BiLSTM | 
 --- | --- | --- | --- |--- |--- |
- Token-Based| 301 | 283 | 290 | 286 | 289 |
- Morpheme-Based| 301 | 283 | 290 | 286 | 289 | 
+ Token-Based| 66.15 | 75.42 | 84.77 | 74.42 | 79.35 |
+ Morpheme-Based| 68.42 | 73.5 | 82.42 | 74.65 | 78.08 | 
