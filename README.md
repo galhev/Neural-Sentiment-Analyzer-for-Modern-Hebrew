@@ -1,6 +1,6 @@
 # Neural-Sentiment-Analyzer-for-Modern-Hebrew
 
-This code is a neural sentiment analysis for Modern Hebrew which was written in pytorch and is based on the article: 
+A neural sentiment analyser for Modern Hebrew. This project was written in PyTorch and is based on the article: 
 [Representations and Architectures in Neural Sentiment Analysis for
 Morphologically Rich Languages: A Case Study from Modern Hebrew](https://www.aclweb.org/anthology/C18-1190.pdf).
 
